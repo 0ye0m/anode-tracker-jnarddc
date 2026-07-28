@@ -102,7 +102,7 @@ Date Entry
 Time In
 ```
 
-**Subsequent scan on the same day**
+**Subsequent scan next time**
 
 The corresponding record is updated with:
 
